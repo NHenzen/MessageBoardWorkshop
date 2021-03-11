@@ -9,16 +9,6 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
@@ -34,7 +24,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 - **opdracht 2**
   -
-    	Voer pas opdracht 3 uit als opdracht 1 en 2 werken
+    	Voer pas opdracht 3 als opdracht 1 en 2 werken
     - **A:** Haal door middel van de getter alle messages op.
     - **B:** Plaats binnen de `<p>` de text van de message
     - **C:** Returneer de messages uit de state
@@ -45,7 +35,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
           tip: gebruik ook de ES6 functie "[`includes()`](https://developer.mozilla.org/nl/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)".
 
 
-
 - **opdracht 4**
   -
     - **A:** Maak zelf een nieuwe button met de label "Create" Koppel de functie `createNewMessage()` aan de nieuwe create button
@@ -54,6 +43,18 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 
-
-
-
+## Links uit presentatie:
+	vue syntax:
+	https://vuejs.org/v2/guide/syntax.html
+	
+	vue list:
+	https://vuejs.org/v2/guide/list.html
+	
+	vuex:
+	https://vuex.vuejs.org/
+	
+	computed:
+	https://vuejs.org/v2/guide/computed.html
+	
+	Quasar:
+	https://quasar.dev/vue-components/
