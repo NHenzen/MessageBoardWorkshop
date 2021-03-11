@@ -34,7 +34,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 - **opdracht 2**
   -
-    	Voer pas opdracht 3 als opdracht 1 en 2 werken
+    	Voer pas opdracht 3 uit als opdracht 1 en 2 werken
     - **A:** Haal door middel van de getter alle messages op.
     - **B:** Plaats binnen de `<p>` de text van de message
     - **C:** Returneer de messages uit de state
