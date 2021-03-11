@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Welkom bij Vue.js 101!",
+    "text": "Je hebt de eerste opdracht al voor elkaar gebokst. Lekker bezig!",
+    "upvotes": ["eleina.nieborg@parantion.nl", "kris.minkjan@parantion.nl"],
+    "downvotes": [],
+    "user": "eleina.nieborg@parantion.nl"
+  },
+  {
+    "id": 2,
+    "title": "Dit bericht is statisch.",
+    "text": "Zoals de titel het al zegt, is dit bericht statisch. Deze hebben wij voor jou klaargezet zodat je kunt spelen met de basics van Vue.js.",
+    "upvotes": ["kris.minkjan@parantion.nl", "eleina.nieborg@parantion.nl"],
+    "downvotes": [],
+    "user": "kris.minkjan@parantion.nl"
+  }
+]
